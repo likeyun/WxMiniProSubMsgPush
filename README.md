@@ -42,15 +42,15 @@
 
 ## 控制台
 
-> 建议这里放截图
+![](https://github.com/likeyun/WxMiniProSubMsgPush/blob/main/imgs/ScreenShot_2026-05-20_145011_500.png?raw=true)
 
 ## 模板管理
 
-> 建议这里放截图
+![](https://github.com/likeyun/WxMiniProSubMsgPush/blob/main/imgs/ScreenShot_2026-05-20_145047_639.png?raw=true)
 
 ## 任务执行中心
 
-> 建议这里放截图
+![](https://github.com/likeyun/WxMiniProSubMsgPush/blob/main/imgs/ScreenShot_2026-05-20_145105_049.png?raw=true)
 
 ---
 
