@@ -51,6 +51,7 @@
 ## 任务执行中心
 
 ![](https://github.com/likeyun/WxMiniProSubMsgPush/blob/main/imgs/ScreenShot_2026-05-20_145105_049.png?raw=true)
+![](https://github.com/likeyun/WxMiniProSubMsgPush/blob/main/imgs/Snipaste_2026-05-20_18-50-07.png?raw=true)
 
 ---
 
