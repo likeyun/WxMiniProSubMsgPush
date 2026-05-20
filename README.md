@@ -1,4 +1,4 @@
-# WePush MiniProgram Push
+# WxPush MiniProgram SubMsgPush
 
 基于 PHP + Redis + MySQL 开发的微信小程序订阅消息推送系统。
 
